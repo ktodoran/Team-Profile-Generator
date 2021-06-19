@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Module 10 Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktodoran/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "Node",
+    "Jest"
+  ],
+  "author": "Kyle Todoran",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ktodoran/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/ktodoran/Team-Profile-Generator#readme"
+}
