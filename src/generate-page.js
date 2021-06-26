@@ -16,7 +16,7 @@ const writeFile = fileContent => {
 
             resolve({
                 ok: true,
-                message: 'Dashboard Created!'
+                message: 'Your Dashboard Was Created!'
             });
         });
     });
