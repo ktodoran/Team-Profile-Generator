@@ -1,23 +1,29 @@
 {
-  "name": "team-profile-generator",
+  "name": "team-dashboard",
   "version": "1.0.0",
-  "description": "Module 10 Challenge",
+  "description": "",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1",
+    "jest": "^27.0.4"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  },
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ktodoran/Team-Profile-Generator.git"
+    "url": "git+https://github.com/antellitocci/team-dashboard.git"
   },
-  "keywords": [
-    "Node",
-    "Jest"
-  ],
-  "author": "Kyle Todoran",
-  "license": "UNLICENSED",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ktodoran/Team-Profile-Generator/issues"
+    "url": "https://github.com/antellitocci/team-dashboard/issues"
   },
-  "homepage": "https://github.com/ktodoran/Team-Profile-Generator#readme"
+  "homepage": "https://github.com/antellitocci/team-dashboard#readme"
 }
