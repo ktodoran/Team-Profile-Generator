@@ -1,6 +1,5 @@
 # Team Dashboard Generator
 
-        
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
       
 
@@ -30,8 +29,6 @@ Inquirer
 * [Installation](#installation)
 * [Usage](#usage)
 * [Questions](#questions)
-* [Additional Thoughts](#additional-thoughts)
-* [License](#license)
 
 
 ## Installation
@@ -42,10 +39,10 @@ To install the README generator, download or clone the hosting repository. Once 
 Please review the installation instructions above for getting started with the application. The video linked below also provides a walkthrough explaining how to get the application up and running as well as how to generate the README.
 
 ### How To: Install and Run the Application
-[Video Guide](https://youtu.be/EgDjELwK6YU)
+[Video Guide](https://youtu.be/a_j3cHzp6hs)
 
 ### Screenshot
-<img src="./assets/example-html-screenshot.png" alt="example HTML output" />
+<img src="./assets/ExampleofProject.jpg" alt="example HTML output" />
 
 ## Questions
 If you have questions about this project, please contact me via one of the methods listed below:
