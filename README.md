@@ -39,11 +39,7 @@ To install the Team Profile generator, download or clone the hosting repository.
 Please review the installation instructions above for getting started with the application. The video linked below also provides a walkthrough explaining how to get the application up and running as well as how to generate the README.
 
 ### How To: Install and Run the Application
-[Video Guide](https://youtu.be/ytTbAkyjbMc)
-
-This video was taken prior to me making major changes to the projects look. The screenshot will differ from how the project looks in the video.
-
-Update video to come! Stay Tuned.
+[Video Guide](https://youtu.be/p42KDVDdQXY)
 
 ### Screenshot
 <img src="./assets/images/ScreenshotOfProject.jpg" alt="Screenshot Of Project" />
