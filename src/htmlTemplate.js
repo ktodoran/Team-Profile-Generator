@@ -1,6 +1,6 @@
-const generateHTML = (teamName, templateData) => {
+const generateHTML = (teamName, teamData) => {
     const team = teamName;
-    const employees = templateData;
+    const employees = teamData;
 
     return `
     <!DOCTYPE html>
@@ -11,13 +11,13 @@ const generateHTML = (teamName, templateData) => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
         <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-iKbFRxucmOHIcpWdX9NTZ5WETOPm0Goy0WmfyNcl52qSYtc2Buk0NCe6jU1sWWNB" crossorigin="anonymous">
-        <title>${team}'s Dashboard</title>
+        <title>${team}</title>
     </head>
 
-    <body style="background-color: rgba(199,199,191,0.75);">
-        <header style="background-color: #000035;">
+    <body style="background-color: rgba(29, 95, 238, 0.856);">
+        <header style="background-color: #000000;">
             <div class="container py-3">
-                <h1 style="color: white">Members of ${team}</h1>
+                <h1 style="color: gold">Your Team is: ${team}</h1>
             </div>
         </header>
         <main class="container py-5">
@@ -38,9 +38,9 @@ const generateEmployeeCards = (employees) => {
             return `
             <div class="col-3 my-3">
                     <div class="card h-100">
-                        <div class="card-header" style="background-color: #a5a2b7;">
+                        <div class="card-header" style="background-color: #f54444;">
                         <h3 style="font-weight: 800;">${name}<span class="badge bg-dark" style="float: right; font-size: 1rem;">ID: ${id}</span></h3>
-                        <h4><span><i class="fas fa-user-tie"></i> </span>Manager</h4>
+                        <h4><span><i class="fas fa-user-astronaut"></i> </span>Manager</h4>
                         </div>
                         <div class="card-body">
                             <h5 class="card-title pb-2" style="text-align: center;">Employee Information</h5>
@@ -57,9 +57,9 @@ const generateEmployeeCards = (employees) => {
             return `
             <div class="col-3 my-3">
                     <div class="card h-100">
-                        <div class="card-header" style="background-color: #a5a2b7;">
+                        <div class="card-header" style="background-color: #f54444;">
                         <h3 style="font-weight: 800;">${name}<span class="badge bg-dark" style="float: right; font-size: 1rem;">ID: ${id}</span></h3>
-                        <h4><span><i class="fas fa-user-hard-hat"></i> </span>Engineer</h4>
+                        <h4><span><i class="fas fa-atom"></i> </span>Engineer</h4>
                         </div>
                         <div class="card-body">
                             <h5 class="card-title pb-2" style="text-align: center;">Employee Information</h5>
@@ -76,9 +76,9 @@ const generateEmployeeCards = (employees) => {
             return `
             <div class="col-3 my-3">
                     <div class="card h-100">
-                        <div class="card-header" style="background-color: #a5a2b7;">
+                        <div class="card-header" style="background-color: #f54444;">
                         <h3 style="font-weight: 800;">${name}<span class="badge bg-dark" style="float: right; font-size: 1rem;">ID: ${id}</span></h3>
-                        <h4><span><i class="fas fa-user-graduate"></i> </span>Intern</h4>
+                        <h4><span><i class="fas fa-robot"></i></i> </span>Intern</h4>
                         </div>
                         <div class="card-body">
                             <h5 class="card-title pb-2" style="text-align: center;">Employee Information</h5>

@@ -32,7 +32,7 @@ Inquirer
 
 
 ## Installation
-To install the README generator, download or clone the hosting repository. Once downloaded / cloned, navigate to the directory where it is located using the command line. Once in that directory, run "npm install" in the command line. After the "npm install" has finished, run "node index" to start the application. You will be presented with questions about your application. Answer these and at the end you will provided a "Your Dashboard Was Generated!" message. The HTML file that is created will be located in the "dist" folder of the application.
+To install the Team Profile generator, download or clone the hosting repository. Once downloaded / cloned, navigate to the directory where it is located using the command line. Once in that directory, run "npm install" in the command line. After the "npm install" has finished, run "node index" to start the application. You will be presented with questions about your application. Answer these and at the end you will provided a "Your Dashboard Was Generated!" message. The HTML file that is created will be located in the "dist" folder of the application.
 
 
 ## Usage
@@ -42,7 +42,7 @@ Please review the installation instructions above for getting started with the a
 [Video Guide](https://youtu.be/ytTbAkyjbMc)
 
 ### Screenshot
-<img src="./assets/ExampleofProject.jpg" alt="example HTML output" />
+<img src="./assets/ScreenshotOfProject.jpg" alt="Screenshot Of Project" />
 
 ## Questions
 If you have questions about this project, please contact me via one of the methods listed below:
