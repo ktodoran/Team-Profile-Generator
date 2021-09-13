@@ -41,6 +41,10 @@ Please review the installation instructions above for getting started with the a
 ### How To: Install and Run the Application
 [Video Guide](https://youtu.be/ytTbAkyjbMc)
 
+This video was taken prior to me making major changes to the projects look. The screenshot will differ from how the project looks in the video.
+
+Update video to come! Stay Tuned.
+
 ### Screenshot
 <img src="./assets/ScreenshotOfProject.jpg" alt="Screenshot Of Project" />
 
