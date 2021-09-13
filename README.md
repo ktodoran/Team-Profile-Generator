@@ -46,7 +46,7 @@ This video was taken prior to me making major changes to the projects look. The 
 Update video to come! Stay Tuned.
 
 ### Screenshot
-<img src="./assets/ScreenshotOfProject.jpg" alt="Screenshot Of Project" />
+<img src="./assets/images/ScreenshotOfProject.jpg" alt="Screenshot Of Project" />
 
 ## Questions
 If you have questions about this project, please contact me via one of the methods listed below:

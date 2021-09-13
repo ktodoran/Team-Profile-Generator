@@ -78,7 +78,7 @@ const generateEmployeeCards = (employees) => {
                     <div class="card h-100">
                         <div class="card-header" style="background-color: #f54444;">
                         <h3 style="font-weight: 800;">${name}<span class="badge bg-dark" style="float: right; font-size: 1rem;">ID: ${id}</span></h3>
-                        <h4><span><i class="fas fa-robot"></i></i> </span>Intern</h4>
+                        <h4><span><i class="fas fa-user-graduate"></i> </span>Intern</h4>
                         </div>
                         <div class="card-body">
                             <h5 class="card-title pb-2" style="text-align: center;">Employee Information</h5>
